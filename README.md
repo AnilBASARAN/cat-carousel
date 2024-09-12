@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Press on the green button that says code, and download on your computer, drag and drop to the vscode and that is it. its ready to use it.
+Press on the green button that says "code", and download on your computer, drag and drop to the vscode and that is it. its ready to use it.
 
 ## Available Scripts
 
