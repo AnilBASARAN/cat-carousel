@@ -67,22 +67,22 @@ const App = () => {
 
        <div className="flex">
       <div className="mr-2 w-16">name</div>
-      <div>{CATS[1].name}</div>
+      <div>{CATS[number].name}</div>
       </div>
 
     <div className="flex">
       <div className="mr-2 w-16">age</div>
-      <div>{CATS[1].age}</div>
+      <div>{CATS[number].age}</div>
       </div>
 
         <div className="flex">
       <div className="mr-2 w-16">breed</div>
-      <div>{CATS[1].breed}</div>
+      <div>{CATS[number].breed}</div>
       </div>
 
         <div className="flex">
       <div className="mr-2 w-16">location</div>
-      <div>{CATS[1].location}</div>
+      <div>{CATS[number].location}</div>
       </div>
       
     </div>
